@@ -17,3 +17,24 @@ header h1 {
     text-align: center;
     margin-top: 0px;
 }
+
+
+#logo img {
+    display: block;
+    margin: 0px auto;
+    width: 70%;
+}
+
+main h2 {
+    text-align: center;
+    color: #385898;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+main p {
+    background: #385898;
+    color: white;
+    font-size: 20px;
+    padding: 10px 15px;
+}
